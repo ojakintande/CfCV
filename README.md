@@ -43,15 +43,6 @@ To integrate CfCV into your fairness-aware machine learning pipeline:
 This study demonstrates that machine learning experiments achieve higher fairness when the concept of IPR forms the foundation of the human-machine intelligence framework[cite: 1]. We recommend adopting IPR-based data splitting for all human-machine intelligence systems to ensure equitable model performance.
 
 ## 6. Citation
-If you use this framework in your research, please cite:
-@article{AKINTANDE2024200350,
-title = {CfCV: Towards algorithmic debiasing in machine learning experiment},
-journal = {Intelligent Systems with Applications},
-volume = {22},
-pages = {200350},
-year = {2024},
-issn = {2667-3053},
-doi = {https://doi.org/10.1016/j.iswa.2024.200350}
-
+If you use this framework in your research, please cite - https://www.sciencedirect.com/science/article/pii/S2667305324000267
 ## 7. License
 This project is licensed under the **MIT License**[cite: 1].
