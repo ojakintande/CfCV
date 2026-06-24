@@ -1,5 +1,3 @@
-# CfCV
-Confirmatory Cross Validation - Towards algorithmic debiasing in machine learning experiment
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Research Implementation](https://img.shields.io/badge/Status-Active-blue)](https://github.com/ojakintande/LLM_Who_Audit_Reviewers)
 
